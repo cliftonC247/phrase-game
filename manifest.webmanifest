@@ -1,0 +1,13 @@
+{
+  "name": "Guess the Famous Phrase",
+  "short_name": "Phrase Game",
+  "start_url": "./phrase_game_iphone.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "icons": [
+    {"src":"phrase-game-icon-180.png","sizes":"180x180","type":"image/png"},
+    {"src":"phrase-game-icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
