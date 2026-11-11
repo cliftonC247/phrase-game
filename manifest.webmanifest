@@ -1,7 +1,7 @@
 {
   "name": "Guess the Famous Phrase",
   "short_name": "Phrase Game",
-  "start_url": "./phrase_game_iphone.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#07111f",
